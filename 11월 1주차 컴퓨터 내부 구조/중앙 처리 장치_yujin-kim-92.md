@@ -15,7 +15,7 @@
 1. 결과
 2. 조건코드
 
-![이미지 (36).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51bc5343-bca6-47a2-929e-28560a2c4736/이미지_(36).jpg)
+![이미지 (36).jpg](https://github.com/yujin-kim-92/cs-study/blob/main/11%EC%9B%94%201%EC%A3%BC%EC%B0%A8%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%82%B4%EB%B6%80%20%EA%B5%AC%EC%A1%B0/image/%EA%B7%B8%EB%A6%BC%204-7%20ALU%20%EC%98%88%EC%8B%9C.jpg)
 
 실행 장치 (execution unit) 혹은 제어 장치 (control unit)
 
@@ -31,4 +31,4 @@
 
 ALU에서 어떤 동작을 할지 명시함
 
-![이미지 (37).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bba79f1e-04f7-422a-89b2-2eddf92a418d/이미지_(37).jpg)
+![이미지 (37).jpg](https://github.com/yujin-kim-92/cs-study/blob/main/11%EC%9B%94%201%EC%A3%BC%EC%B0%A8%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%82%B4%EB%B6%80%20%EA%B5%AC%EC%A1%B0/image/%EA%B7%B8%EB%A6%BC%204-12%20PC%20%EC%98%88%EC%8B%9C.jpg)
