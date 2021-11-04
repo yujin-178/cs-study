@@ -5,7 +5,7 @@
 1. 피연산자
 2. 명령코드
     
-    clr, set, not, neg, shl, shr, load, and, or, xor, add, sub, cmp
+    clr, set, not, neg, shl, shr, load, and, or, xor, add, sub, cmp  
 출력
 1. 결과
 2. 조건코드
